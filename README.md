@@ -5,6 +5,4 @@
 
 
 ## 環境
-M1 mac上でUTMを使いUbuntuを動かしています  
-- Architecture ARM64(aarch64)  
-- Machine QEMU 7.0 ARM Virtual Machine (alias of virt-7.0)
+M1 mac上でサイト内で紹介されているdocker imageを使用しています  

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# カレントディレクトリでコンテナをシェルとして使用
+docker run --rm -it -v $PWD:$PWD compilerbook

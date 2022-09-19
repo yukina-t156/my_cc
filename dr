@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+# dockerイメージで引数を全て実行する
+docker run --rm compilerbook $@ 
